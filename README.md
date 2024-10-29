@@ -4,6 +4,10 @@
 - **Email**: [aygun.ashak@hotmail.com](mailto:aygun.ashak@hotmail.com)  
 - **Location**: Plovdiv, Bulgaria  
 
+## Online Profiles
+- GitHub: [github.com/YourUsername](https://github.com/Aygun2000)
+- LinkedIn: [linkedin.com/in/YourProfile](https://linkedin.com/in/aygun-ashak-69a5a3250)
+  
 ## Skills
 - **Languages & Frameworks**:
   - PHP 8 (OOP)
