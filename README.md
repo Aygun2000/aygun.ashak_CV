@@ -5,8 +5,8 @@
 - **Location**: Plovdiv, Bulgaria  
 
 ## Online Profiles
-- GitHub: [github.com/YourUsername](https://github.com/Aygun2000)
-- LinkedIn: [linkedin.com/in/YourProfile](https://linkedin.com/in/aygun-ashak-69a5a3250)
+- GitHub: [github.com/Aygun2000](https://github.com/Aygun2000)
+- LinkedIn: [linkedin.com](https://linkedin.com/in/aygun-ashak-69a5a3250)
   
 ## Skills
 - **Languages & Frameworks**:
