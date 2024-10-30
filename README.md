@@ -6,7 +6,7 @@
 
 ## Online Profiles
 - GitHub: [github.com/Aygun2000](https://github.com/Aygun2000)
-- LinkedIn: [linkedin.com](https://linkedin.com/in/aygun-ashak-69a5a3250)
+- LinkedIn: [linkedin.com/in/aygun-ashak-69a5a3250](https://linkedin.com/in/aygun-ashak-69a5a3250)
   
 ## Skills
 - **Languages & Frameworks**:
@@ -19,7 +19,7 @@
   - New to Laravel
 
 - **Version Control**:
-  - Git, GitLab
+  - Git, GitLab, GitHub
 
 ## Projects
 
