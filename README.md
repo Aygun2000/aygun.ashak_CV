@@ -3,34 +3,34 @@
 - **Name:** Aygyun Ashak  
 - **Phone:** +359 87 690 4733  
 - **Email:** [aygun.ashak@hotmail.com](mailto:aygun.ashak@hotmail.com)  
-- **Location:** Plovdiv, Bulgaria  
+- **Location:** Kardzhali, Bulgaria  
 
 ## Online Profiles
 
 - **GitHub:** [github.com/Aygun2000](https://github.com/Aygun2000)  
 - **LinkedIn:** [linkedin.com/in/aygun-ashak-69a5a3250](https://linkedin.com/in/aygun-ashak-69a5a3250)  
   
-## 🛠️ Skills
+##  Skills
 
-### 🧠 Programming Languages
+###  Programming Languages
 - **Backend:** PHP 8 (OOP), MySQL, C, C++ (with OOP), Arduino C  
 - **Frontend:** HTML5, CSS3, JavaScript (ES6+), AJAX, jQuery  
 - **Mobile:** Kotlin (Jetpack Compose, Coroutines, Hilt, Room)
 
-### 📚 Frameworks & Libraries
+### Frameworks & Libraries
 - Laravel (Beginner)  
 - Jetpack Compose (Android UI Toolkit)  
 - Hilt (Dependency Injection)  
 - Room (Android Persistence Library)
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 - Git, GitHub, GitLab  
 - VSCode, Android Studio, Arduino IDE  
 - ThingSpeak (IoT Data Monitoring)  
 - Nextion Editor (Touchscreen UI)  
 - SolidWorks, CURA (3D Modeling & Printing)
 
-### 💡 Software Development Concepts
+### Software Development Concepts
 - Object-Oriented Programming (OOP)  
 - RESTful APIs  
 - Version Control & Basic CI/CD  
