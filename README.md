@@ -68,7 +68,7 @@ A hardware solution for controlling atmospheric conditions in food storage chamb
 
 ---
 
-###Master's Diploma Thesis: Electronic and Hybrid Voting System for University Use. Specifically made for Technical University of Sofia
+### Master's Diploma Thesis: Electronic and Hybrid Voting System for University Use. Specifically made for Technical University of Sofia
 Developed a secure and modular web-based platform tailored for conducting electronic elections and polls within a university setting.
 
 - Designed and implemented a system for creating, modifying, and managing elections and polls for students and administrators.
@@ -89,6 +89,7 @@ Developed a secure and modular web-based platform tailored for conducting electr
 
 - Included audit logs, vote chain verification, and token-based transparency for election integrity.
 
+**Technologies Used**: **PHP, MySQL, HTML/CSS/JavaScript, VSCode, Git**
 **Proof of Work**: [GitHub Repository](https://github.com/Aygun2000/master-thesis.git)
 
 ---
