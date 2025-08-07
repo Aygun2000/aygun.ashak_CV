@@ -91,7 +91,34 @@ Developed a secure and modular web-based platform tailored for conducting electr
 - Included audit logs, vote chain verification, and token-based transparency for election integrity.
 
 **Technologies Used**: **PHP, MySQL, HTML/CSS/JavaScript, VSCode, Git**
+
 **Proof of Work**: [GitHub Repository](https://github.com/Aygun2000/master-thesis.git)
+
+---
+
+### Kotlin-Based Android App: FocusGuard
+Designed and developed a mobile productivity application that encourages focused work by restricting access to distracting apps during user-defined focus sessions.
+Since I later found out that Android 10+ doesn't allow apps to restrict other apps I though of a way around it to add PIN on apps that are in the blacklist, that way it works around the Android Restriction.
+
+- Implemented a foreground service using Kotlin and Jetpack Compose to maintain persistent focus sessions.
+
+- Monitored active applications in real-time using the UsageStatsManager API, with logic to detect and block blacklisted apps (e.g., social media or browsers).
+
+- Enforced app blocking by launching a custom full-screen activity or showing a high-priority notification when restricted apps are opened.
+
+- Integrated coroutine-based timers to track session duration and update the UI and notification system dynamically.
+
+- Handled background activity limitations introduced in Android 14 (BAL restrictions) with fallback mechanisms and user-aware alerts.
+
+- Created a configurable blacklist system and app state management logic to ensure adaptability and user control.
+
+- Built with Jetpack libraries, Hilt for dependency injection, and Room for potential future session tracking.
+
+- Developed and tested on Android 12–14, ensuring backward compatibility and performance stability.
+
+**Technologies Used**: **Kotlin, Jetpack Compose, Hilt, Room, Android SDK, VSCode, Git**
+
+**Proof of Work**: [GitHub Repository](https://github.com/Aygun2000/FocusGuard.git)
 
 ---
 ### Arduino Mini Irrigation System for Gardening
