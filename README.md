@@ -1,12 +1,14 @@
-## Contacts
-- **Name**: Aygyun Ashak  
-- **Phone**: +359 87 690 4733  
-- **Email**: [aygun.ashak@hotmail.com](mailto:aygun.ashak@hotmail.com)  
-- **Location**: Plovdiv, Bulgaria  
+## Contact Information
+
+- **Name:** Aygyun Ashak  
+- **Phone:** +359 87 690 4733  
+- **Email:** [aygun.ashak@hotmail.com](mailto:aygun.ashak@hotmail.com)  
+- **Location:** Plovdiv, Bulgaria  
 
 ## Online Profiles
-- GitHub: [github.com/Aygun2000](https://github.com/Aygun2000)
-- LinkedIn: [linkedin.com/in/aygun-ashak-69a5a3250](https://linkedin.com/in/aygun-ashak-69a5a3250)
+
+- **GitHub:** [github.com/Aygun2000](https://github.com/Aygun2000)  
+- **LinkedIn:** [linkedin.com/in/aygun-ashak-69a5a3250](https://linkedin.com/in/aygun-ashak-69a5a3250)  
   
 ## 🛠️ Skills
 
