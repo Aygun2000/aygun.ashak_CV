@@ -8,18 +8,32 @@
 - GitHub: [github.com/Aygun2000](https://github.com/Aygun2000)
 - LinkedIn: [linkedin.com/in/aygun-ashak-69a5a3250](https://linkedin.com/in/aygun-ashak-69a5a3250)
   
-## Skills
-- **Languages & Frameworks**:
-  - PHP 8 (OOP)
-  - MySQL
-  - HTML5
-  - CSS3
-  - JavaScript, AJAX, jQuery
-  - C, C++, OOP C
-  - New to Laravel
+## 🛠️ Skills
 
-- **Version Control**:
-  - Git, GitLab, GitHub
+### 🧠 Programming Languages
+- **Backend:** PHP 8 (OOP), MySQL, C, C++ (with OOP), Arduino C  
+- **Frontend:** HTML5, CSS3, JavaScript (ES6+), AJAX, jQuery  
+- **Mobile:** Kotlin (Jetpack Compose, Coroutines, Hilt, Room)
+
+### 📚 Frameworks & Libraries
+- Laravel (Beginner)  
+- Jetpack Compose (Android UI Toolkit)  
+- Hilt (Dependency Injection)  
+- Room (Android Persistence Library)
+
+### 🧰 Tools & Platforms
+- Git, GitHub, GitLab  
+- VSCode, Android Studio, Arduino IDE  
+- ThingSpeak (IoT Data Monitoring)  
+- Nextion Editor (Touchscreen UI)  
+- SolidWorks, CURA (3D Modeling & Printing)
+
+### 💡 Software Development Concepts
+- Object-Oriented Programming (OOP)  
+- RESTful APIs  
+- Version Control & Basic CI/CD  
+- Secure Web Architecture (HMAC, Token Auth, Blockchain Principles)  
+- Cross-platform Compatibility & Responsive Design
 
 ## Projects
 
