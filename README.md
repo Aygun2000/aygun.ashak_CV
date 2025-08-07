@@ -50,8 +50,7 @@ A comprehensive web solution for selling goods, featuring:
 
 **Technologies Used**: **PHP, JavaScript, HTML, CSS, MySQL**  
 
-**Proof of Work**: [GitHub Repository](https://github.com/Aygun2000/Web-PHP.git) 
-This Repository is Private - Could demonstrate if asked.
+**Proof of Work**: [Private GitHub Repository – available upon request](https://github.com/Aygun2000/Web-PHP.git) 
 
 ---
 
@@ -99,8 +98,7 @@ Developed a secure and modular web-based platform tailored for conducting electr
 
 ### Kotlin-Based Android App: FocusGuard
 Designed and developed a mobile productivity application that encourages focused work by restricting access to distracting apps during user-defined focus sessions.
-Since I later found out that Android 10+ doesn't allow apps to restrict other apps I though of a way around it to add PIN on apps that are in the blacklist, that way it works around the Android Restriction.
-
+Due to Android 10+ restrictions, I implemented a PIN-based workaround to maintain app-blocking functionality.
 - Implemented a foreground service using Kotlin and Jetpack Compose to maintain persistent focus sessions.
 
 - Monitored active applications in real-time using the UsageStatsManager API, with logic to detect and block blacklisted apps (e.g., social media or browsers).
