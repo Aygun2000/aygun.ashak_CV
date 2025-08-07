@@ -68,6 +68,30 @@ A hardware solution for controlling atmospheric conditions in food storage chamb
 
 ---
 
+###Master's Diploma Thesis: Electronic and Hybrid Voting System for University Use. Specifically made for Technical University of Sofia
+Developed a secure and modular web-based platform tailored for conducting electronic elections and polls within a university setting.
+
+- Designed and implemented a system for creating, modifying, and managing elections and polls for students and administrators.
+
+- Integrated blockchain principles to ensure data immutability and traceability of each vote.
+
+- Applied HMAC (Hash-based Message Authentication Code) for vote authentication and tamper protection.
+
+- Supported both anonymous and verifiable voting with receipt-based verification.
+
+- Enabled QR-based login and optional 2FA to improve user identification and access control.
+
+- Built a role-based access system with separate interfaces for users and administrators.
+
+- Implemented buffering and resynchronization logic for vote recovery in case of connection loss.
+
+- Developed using PHP, MySQL, HTML/CSS/JS, with secure backend logic and frontend integration.
+
+- Included audit logs, vote chain verification, and token-based transparency for election integrity.
+
+**Proof of Work**: [GitHub Repository](https://github.com/Aygun2000/master-thesis.git)
+
+---
 ### Arduino Mini Irrigation System for Gardening
 An automated system that monitors humidity levels and controls water flow to optimize watering schedules. The pneumatic valve opens at specific times to reduce water costs.
 
