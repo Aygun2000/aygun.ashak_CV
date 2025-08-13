@@ -112,7 +112,7 @@ Developed a secure and modular web-based platform tailored for conducting electr
 
 ---
 
-### Kotlin-Based Android App: FocusGuard
+### Kotlin-Based Android App: TaskAnchor
 Designed and developed a mobile productivity application that encourages focused work by restricting access to distracting apps during user-defined focus sessions.
 Due to Android 10+ restrictions, I implemented a PIN-based workaround to maintain app-blocking functionality.
 - Implemented a foreground service using Kotlin and Jetpack Compose to maintain persistent focus sessions.
